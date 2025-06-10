@@ -24,10 +24,10 @@
 ## 🚀 Get Started  
 
 ### 1️⃣ Fork the Repo  
-[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Shazam-XMD)
+[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/spuce507/Shazam-XMD)
 
 ### 2️⃣ Download the ZIP File  
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Shazam-XMD/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/spuce507/Shazam-XMD.git)
 
 ### 3️⃣ Get Your Session ID  
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)]()
